@@ -14,19 +14,19 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "33f9278a9ea3dcaeb64c5f70a42bf294"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "25412654"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "1478211272:AAEEIooH3IP6vjfg_gJTBIKoHPT6xsQ2kQI"
         },
         "BOT_UN": {
             "description": "Your bot username here. Do not use '@'.",
-            "value": ""
+            "value": "PubgAntibanbot"
         }
     },
     "buildpacks": [
